@@ -16,3 +16,7 @@ node_modules
 frontend/dist
 .net
 net
+
+.vscode/settings.json
+_.*
+
