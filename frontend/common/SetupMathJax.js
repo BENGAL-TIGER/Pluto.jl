@@ -48,6 +48,7 @@ export const setup_mathjax = () => {
             },
         },
         tex: {
+            tags: 'ams',
             inlineMath: [
                 ["$", "$"],
                 ["\\(", "\\)"],
